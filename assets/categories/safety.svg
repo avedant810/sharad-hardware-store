@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-label="SAFETY EQUIPMENT">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f5ef"/><stop offset="1" stop-color="#e9eef2"/></linearGradient></defs>
+<rect width="400" height="360" fill="url(#bg)"/><circle cx="335" cy="55" r="70" fill="#f3e2c9" opacity=".6"/><circle cx="55" cy="310" r="90" fill="#d9e5ea" opacity=".55"/>
+<g stroke-linejoin="round" stroke-linecap="round"><path d="M80 190a120 120 0 0 1 240 0v25H80z" fill="#e8ad3f"/><rect x="68" y="205" width="265" height="25" rx="12" fill="#c7822a"/><path d="M135 205q65-70 130 0" fill="none" stroke="#f8d48d" stroke-width="10"/><rect x="105" y="255" width="75" height="45" rx="16" fill="#91aabb"/><rect x="220" y="255" width="75" height="45" rx="16" fill="#91aabb"/></g>
+<rect x="18" y="322" width="364" height="24" rx="8" fill="#14263d" opacity=".92"/><text x="200" y="339" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#fff">SAFETY EQUIPMENT</text>
+</svg>

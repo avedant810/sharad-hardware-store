@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-label="WATER STORAGE">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f5ef"/><stop offset="1" stop-color="#e9eef2"/></linearGradient></defs>
+<rect width="400" height="360" fill="url(#bg)"/><circle cx="335" cy="55" r="70" fill="#f3e2c9" opacity=".6"/><circle cx="55" cy="310" r="90" fill="#d9e5ea" opacity=".55"/>
+<g stroke-linejoin="round" stroke-linecap="round"><rect x="110" y="95" width="180" height="220" rx="40" fill="#5688b2"/><ellipse cx="200" cy="105" rx="90" ry="24" fill="#79a8ca"/><path d="M130 150h140m-140 35h140m-140 35h140" stroke="#a9cbe1" stroke-width="8"/><rect x="170" y="70" width="60" height="20" rx="6" fill="#324e6b"/><rect x="55" y="235" width="65" height="80" rx="10" fill="#e1a13d"/></g>
+<rect x="18" y="322" width="364" height="24" rx="8" fill="#14263d" opacity=".92"/><text x="200" y="339" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#fff">WATER STORAGE</text>
+</svg>
